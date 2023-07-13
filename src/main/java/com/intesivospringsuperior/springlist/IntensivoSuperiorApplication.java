@@ -1,4 +1,4 @@
-package com.intesivospringsuperior.demo;
+package com.intesivospringsuperior.springlist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IntensivoSuperiorApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IntensivoSuperiorApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IntensivoSuperiorApplication.class, args);
+    }
 
 }
